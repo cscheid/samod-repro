@@ -1,0 +1,17 @@
+{
+  "name": "samod-repro",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@automerge/automerge-repo": "^2.5.1",
+    "@automerge/automerge-repo-network-websocket": "^2.5.1"
+  },
+  "devDependencies": {
+    "typescript": "~5.9.3",
+    "vitest": "^3.1.1"
+  }
+}

@@ -95,4 +95,3 @@ Rebuild and rerun the test — it will fail.
 
 Both the server and the client use only automerge ecosystem packages — no
 application-specific dependencies.
-# samod-repro
